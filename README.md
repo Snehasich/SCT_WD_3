@@ -38,19 +38,16 @@ A simple and responsive **Tic-Tac-Toe** web game built using **HTML**, **CSS**, 
 ## 🧑‍💻 How to Run Locally
 
 1. 📥 Clone the repository:
-
-```bash
-git clone https://github.com/Snehasich/SCT_WD_3.git
+   ```bash
+   git clone https://github.com/Snehasich/SCT_WD_3.git
 
 2. 📂 Navigate into the project folder:
-
-```bash
-cd SCT_WD_3
+   ```bash
+   cd SCT_WD_3
 
 3. 🌐 Open the game in your browser:
-
-```bash
-start index.html      # For Windows
-open index.html       # For macOS
-xdg-open index.html   # For Linux
+   ```bash
+   start index.html      # For Windows
+   open index.html       # For macOS
+   xdg-open index.html   # For Linux
 
