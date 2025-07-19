@@ -25,7 +25,7 @@ A simple and responsive **Tic-Tac-Toe** web game built using **HTML**, **CSS**, 
 
 ## 🚀 Live Demo
 
-👉 [Play the Game Here](https://snehasich.github.io/SCT_WD_2/)
+👉 [Play the Game Here] (https://snehasich.github.io/SCT_WD_3/)
 
 > ⚠️ Make sure `index.html`, `style.css`, and `script.js` are all in the root directory of your GitHub repository for the live link to work.
 
