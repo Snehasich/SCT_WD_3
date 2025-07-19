@@ -32,7 +32,6 @@ A simple and responsive **Tic-Tac-Toe** web game built using **HTML**, **CSS**, 
 ## 📸 Screenshot
 
 ![Tic-Tac-Toe Preview](./tic-tac-toe.png)  
-<!-- Replace 'screenshot.png' with your actual image file in the repo -->
 
 ---
 
@@ -41,17 +40,17 @@ A simple and responsive **Tic-Tac-Toe** web game built using **HTML**, **CSS**, 
 1. 📥 Clone the repository:
    
 ```bash
-  git clone https://github.com/Snehasich/SCT_WD_3.git
+git clone https://github.com/Snehasich/SCT_WD_3.git
 
 2. 📂 Navigate into the project folder:
 
 ```bash
-  cd SCT_WD_3
+cd SCT_WD_3
 
 3. 🌐 Open the game in your browser:
 
 ```bash
-  start index.html      # For Windows
-  open index.html       # For macOS
-  xdg-open index.html   # For Linux
+start index.html      # For Windows
+open index.html       # For macOS
+xdg-open index.html   # For Linux
 
